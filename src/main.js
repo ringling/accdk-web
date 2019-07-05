@@ -6,12 +6,13 @@ import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/css/main.scss'
 import '~/assets/css/font-awesome.min.css'
 
+// import '~/assets/js/jquery.min.js'
 // import '~/assets/js/breakpoints.min.js'
 // import '~/assets/js/browser.min.js'
-import '~/assets/js/jquery.min.js'
-import '~/assets/js/jquery.dropotron.min.js'
-import '~/assets/js/jquery.scrollex.min.js'
-import '~/assets/js/util.js'
+// import '~/assets/js/jquery.dropotron.min.js'
+// import '~/assets/js/jquery.scrollex.min.js'
+// import '~/assets/js/util.js'
+// import '~/assets/js/main.js'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
