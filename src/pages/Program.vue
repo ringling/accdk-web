@@ -1,0 +1,204 @@
+<template>
+  <Layout >
+    <!-- Main-->
+    <div class="wrapper style1">
+      <section id="main" class="container">
+        <header class="major">
+          <h2>Program 2018</h2>
+          <p>Program for 2019 is to be announced, but you can see last years program below</p>
+        </header>
+
+        <!-- Content -->
+          <section id="content" class="box program">
+            <h3>Open Space</h3>
+            <p>The Agile Coach Camp is an <a target="_blank" href="https://en.wikipedia.org/wiki/Unconference">Open Space/unconference</a> event and provides a simple mean to self-organize.</p>
+            <p>There are four principals to have in mind for an Open Space event:
+              <ul>
+                <li>Whoever comes is the right people.</li>
+                <li>Whatever happens is the only thing that could have.</li>
+                <li>When it starts is the right time.</li>
+                <li>When it's over it's over.</li>
+              </ul>
+            </p>
+
+            <h3>The 23rd May</h3>
+
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Time</th>
+                    <th>Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>16.00</td>
+                    <td>Welcome - snacks and soda</td>
+                  </tr>
+                  <tr>
+                    <td>16.30</td>
+                    <td>Opening & market place</td>
+                  </tr>
+                  <tr>
+                    <td>18.00-18.55</td>
+                    <td>Session</td>
+                  </tr>
+                  <tr>
+                    <td>19.05-19.55</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>20.00-20.20</td>
+                    <td>Output & presentation</td>
+                  </tr>
+                  <tr>
+                    <td>20.25</td>
+                    <td>Dinner</td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+
+            <h3>The 24th May</h3>
+
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Time</th>
+                    <th>Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>07.30</td>
+                    <td>Good morning workout if you feel like it</td>
+                  </tr>
+                  <tr>
+                    <td>08.30</td>
+                    <td>Breakfast/shower</td>
+                  </tr>
+                  <tr>
+                    <td>09.30</td>
+                    <td>Look at Market place</td>
+                  </tr>
+                  <tr>
+                    <td>09.30-10.25</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>10.30-10.55</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>11.00-12.00</td>
+                    <td>Masterclass</td>
+                  </tr>
+                  <tr>
+                    <td>12.00-12.55</td>
+                    <td>Lunch</td>
+                  </tr>
+                  <tr>
+                    <td>13.00-13.55</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>14.00-14.50</td>
+                    <td>Masterclass</td>
+                  </tr>
+                  <tr>
+                    <td>15.00-15.30</td>
+                    <td>Output & presentation</td>
+                  </tr>
+                  <tr>
+                    <td>15.30</td>
+                    <td>Break for coffee/tea</td>
+                  </tr>
+                  <tr>
+                    <td>16.00-16.55</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>17.00-18.00</td>
+                    <td>Sessions</td>
+                  </tr>
+                  <tr>
+                    <td>18.05-19.00</td>
+                    <td>Output & presentation</td>
+                  </tr>
+                  <tr>
+                    <td>19.30</td>
+                    <td>Dinner</td>
+                  </tr>
+                  <tr>
+                    <td>22.00-</td>
+                    <td>What do you feel like… Bring games and ideas</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+              <h3>The 25th May</h3>
+
+
+
+
+
+
+              
+              <div class="table-wrapper">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Time</th>
+                      <th>Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>07.30</td>
+                      <td>Breakfast/shower</td>
+                    </tr>
+                    <tr>
+                      <td>08.30</td>
+                      <td>Good morning workout if you feel like it.</td>
+                    </tr>
+                    <tr>
+                      <td>09.00</td>
+                      <td>Look at Market place</td>
+                    </tr>
+                    <tr>
+                      <td>09.30-10.25</td>
+                      <td>Sessions</td>
+                    </tr>
+                    <tr>
+                      <td>10.30-11.25</td>
+                      <td>Sessions</td>
+                    </tr>
+                    <tr>
+                      <td>11.30-12.00</td>
+                      <td>Output & presentation</td>
+                    </tr>
+                    <tr>
+                      <td>12.00</td>
+                      <td>Closing ACCDK2018 - Group hug and goodbye or see you</td>
+                    </tr>
+                    <tr>
+                      <td>13.30</td>
+                      <td>Lunch for those who wants and feel like staying</td>
+                    </tr>
+
+                  </tbody>
+                </table>
+            </div>
+
+
+
+        </section>
+        
+      </section>
+    </div>
+  </Layout>
+</template>
