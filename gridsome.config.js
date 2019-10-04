@@ -6,5 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  plugins: []
+  plugins: [],
+  siteUrl: 'https://ringling.github.io',
+  pathPrefix: '/'
 }
