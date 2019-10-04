@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Agile Coach Camp',
   plugins: [],
   siteUrl: 'https://ringling.github.io',
   pathPrefix: '/'
